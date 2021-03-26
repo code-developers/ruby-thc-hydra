@@ -14,6 +14,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rprogram", "~> 0.3"
 
-  s.files        = Dir["{lib}/**/*.rb", "bin/*", "LICENSE", "*.md"]
+  s.files        = Dir["{lib}/**/*.rb", "bin/*", "LICENSE", "*."]
   s.require_path = 'lib'
 end
