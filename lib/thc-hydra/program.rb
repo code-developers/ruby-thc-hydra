@@ -1,3 +1,6 @@
+#!/usr/bin/env/ruby
+
+#imports
 require 'thc-hydra/task'
 require 'rprogram/program'
 
@@ -5,6 +8,7 @@ module Hydra
   class Program < RProgram::Program
 
     name_program 'hydra'
+
     def self.crack(options={},&block)
       self.find.crack(options,&block)
     end
