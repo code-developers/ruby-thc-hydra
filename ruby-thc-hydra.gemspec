@@ -4,9 +4,9 @@ Gem::Specification.new do |s|
   s.name        = "thc-hydra"
   s.version     = Hydra::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Victor Mello"]
-  s.email       = ["victornrm@gmail.com"]
-  s.homepage    = "https://github.com/m0nad/ruby-thc-hydra"
+  s.authors     = ["Krish Pranav"]
+  s.email       = ["krisna.pranav@gmail.com"]
+  s.homepage    = "https://github.com/krishpranav/ruby-thc-hydra"
   s.summary     = "Ruby interface for running THC-Hydra"
   s.description = "Provides a Ruby interface for running THC-Hydra"
 
